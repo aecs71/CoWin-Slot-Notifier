@@ -12,4 +12,7 @@
 * For sending emails replace the text in braces including({}) with you gmail Id and password.
 
 ## 5. Kepp you pc running or deploy this script to your vps server.
+* For you gmail to work with id and password authentication you may have to enable authentication for "less secure apps" in you gmail account settings.
+* Go to https://myaccount.google.com/security
+* Check for less secure app access section and turn it on.
 
